@@ -4,17 +4,20 @@
 A project of the Data Scientist professional certification with OpenClassRooms
 
 # Data 
-Sourced from: https://www.kaggle.com/moltean/fruits
+Sourced from: OpenClassRooms
 
 # Objective 
-Implement a fruit category recognition app in a Big Data environment
+Study the feasibility of a classification engine to help automatically categorise the products for sale
 
 # Constraints
-- All scripts in Pyspark
-- Scalable solution - increase in data foreseen
-- Use of a cloud environment
+- Use one of the following algos : SIFT / ORB / SURF => ORB was used
+- Use of 2 “bag-of-words” approaches - CV and TF-IDF
+- Use of Word2Vec, BERT and USE
+- Use of CNN Transfer Learning
 
 # Competencies
-- Big data environment 
-- Spark apache
-- Services cloud AWS: EC2, S3, IAM
+- Pre-processing textual data : NLTK, Spacy, CV, TF-IDF, Word2Vec, BERT, USE
+- Pre-processing visual data : OpenCV, ORB, CNN (Keras), CNN VGG16
+- Dimensions Reduction : PCA, TSNE
+- Modeling : Clustering (Kmeans), Supervised classification (KNN)
+- Evaluation : ARI, Accuracy
