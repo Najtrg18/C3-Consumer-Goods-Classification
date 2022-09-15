@@ -21,3 +21,12 @@ Study the feasibility of a classification engine to help automatically categoris
 - Dimensions Reduction : PCA, TSNE
 - Modeling : Clustering (Kmeans), Supervised classification (KNN)
 - Evaluation : ARI, Accuracy
+
+# Presentation Feedback from Evaluator
+- Complete and identifiable deliverables
+- Use of tools and techniques for pre-processing textual data and images
+- Use of dimension reduction methods 
+- Use of deep learning models and transfer learning 
+- Use clustering and classification methods for textual data and images
+- Good understanding of technical methods 
+- Clear and precise presentation
