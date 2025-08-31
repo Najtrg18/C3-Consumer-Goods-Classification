@@ -1,7 +1,7 @@
 # C3-Consumer-goods-classification
 
-# Project
-A project of the Data Scientist professional certification with OpenClassRooms
+# Project Overview
+[Project Overview](https://github.com/Najtrg18/F1-Scoring-Model-Dashboard/blob/main/F1_presentation.pdf)
 
 # Data 
 Sourced from: OpenClassRooms
