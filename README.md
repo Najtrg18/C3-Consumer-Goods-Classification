@@ -1,7 +1,7 @@
 # C3-Consumer-goods-classification
 
 # Project Overview
-[Project Overview](https://github.com/Najtrg18/F1-Scoring-Model-Dashboard/blob/main/F1_presentation.pdf)
+[Project Overview](https://github.com/Najtrg18/C3-Consumer-Goods-Classification/blob/main/C3_%20presentation.pdf))
 
 # Data 
 Sourced from: OpenClassRooms
